@@ -24,7 +24,7 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 30px;
+  padding: 30px 0;
 
   a {
     font-weight: bold;
