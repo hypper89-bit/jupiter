@@ -21,6 +21,9 @@
 }
 
 #nav {
+  width: 100%;
+  display: flex;
+  justify-content: center;
   padding: 30px;
 
   a {

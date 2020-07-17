@@ -106,13 +106,12 @@ body {
   background-color: $blue;
   text-align: center;
   overflow: hidden;
-  min-width: 768px;
 }
 
 .container {
   position: relative;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   .background {
     position: absolute;
     top: 0;
